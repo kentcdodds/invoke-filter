@@ -48,6 +48,8 @@ In your template, instead of doing this:
 <div>{{vm.someFunctionOnYourController(vm.a, 'foo', vm.arg3)}}</div>
 ```
 
+Do this:
+
 ```html
 <div>{{vm.someFunctionOnYourController | invoke:vm.a:'foo':vm.arg3}}</div>
 ```
