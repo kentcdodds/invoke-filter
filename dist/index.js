@@ -1,4 +1,4 @@
-//! invoke-filter version 0.0.0-semantically-released built with ♥ by Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/) (ó ì_í)=óò=(ì_í ò)
+//! invoke-filter version 1.0.2 built with ♥ by Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/) (ó ì_í)=óò=(ì_í ò)
 
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
