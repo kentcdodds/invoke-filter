@@ -1,7 +1,7 @@
 {
   "name": "invoke-filter",
   "description": "An optimization for calling pure functions in the template of an Angular application",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
     "build": "npm run build:production & npm run build:development",
