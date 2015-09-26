@@ -64,7 +64,7 @@
     "ng-annotate-loader": "0.0.6",
     "path-here": "1.1.0",
     "publish-latest": "1.1.2",
-    "semantic-release": "^4.1.0",
+    "semantic-release": "4.3.5",
     "sinon": "1.16.0",
     "sinon-chai": "2.8.0",
     "webpack": "1.11.0",
