@@ -48,7 +48,7 @@
     "ghooks": "0.3.2",
     "isparta": "3.0.3",
     "isparta-loader": "0.2.0",
-    "istanbul": "0.3.18",
+    "istanbul": "0.3.21",
     "karma": "0.13.9",
     "karma-chai": "0.1.0",
     "karma-chrome-launcher": "0.2.0",
