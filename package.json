@@ -59,7 +59,7 @@
     "karma-sinon-chai": "1.0.0",
     "karma-webpack": "1.7.0",
     "lodash": "3.10.1",
-    "mocha": "2.2.5",
+    "mocha": "2.3.3",
     "ng-annotate": "1.0.2",
     "ng-annotate-loader": "0.0.6",
     "path-here": "1.1.0",
