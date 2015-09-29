@@ -41,7 +41,7 @@
     "chai": "3.2.0",
     "codecov.io": "0.1.6",
     "commitizen": "1.0.5",
-    "cz-conventional-changelog": "1.1.0",
+    "cz-conventional-changelog": "1.1.2",
     "eslint": "1.5.1",
     "eslint-loader": "1.0.0",
     "eslint-plugin-mocha": "0.5.1",
