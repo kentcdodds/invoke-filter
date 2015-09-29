@@ -38,7 +38,7 @@
     "babel": "5.8.21",
     "babel-core": "5.8.22",
     "babel-loader": "5.3.2",
-    "chai": "3.2.0",
+    "chai": "3.3.0",
     "codecov.io": "0.1.6",
     "commitizen": "1.0.5",
     "cz-conventional-changelog": "1.1.2",
